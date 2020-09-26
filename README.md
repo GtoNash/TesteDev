@@ -8,8 +8,8 @@ Abrir o navegador;<br>
 Digitar http://localhost/TesteDev/index.php<br>
 
 <h3>Descrição do que utilizou para desenvolver</h3>
-Utilizado PHP 7.4.8
-Servidor xampp com apache
-Sistema Operacional Windows 10
+Utilizado PHP 7.4.8;<br>
+Servidor xampp com apache;<br>
+Sistema Operacional Windows 10;<br>
 IDE PhpStorm 2020.2.1
 
