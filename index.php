@@ -1,6 +1,8 @@
 <?php
 
-//Criar array com os dados de entrada
+/**
+ * Criar array com os dados de entrada
+ */
 $lista = array(
 
     'bff58d7b-8b4a-456a-b852-5a3e000c0e63;12;996958849;NEXTEL;21:24:03;sapien sapien non mi integer ac neque duis bibendum',
@@ -12,7 +14,9 @@ $lista = array(
 
 );
 
-//criar array com ddd são paulo
+/**
+ * Criar array com ddd são paulo
+ */
 $dddSP = array(
     11,
     12,
@@ -25,13 +29,20 @@ $dddSP = array(
     19
 );
 
-//Variavel horario não permitido
+/**
+ * Variavel horario não permitido
+ */
 $horarioBloqueio = '19:59:59';
 
-//Variavel para guardar o tamanho do array
+/**
+ * Variavel para guardar o tamanho do array
+ */
 $final = count($lista);
 
-//Loop para trabalhar os dados
+/**
+ * Loop para trabalhar os dados
+ * Seguir todas as regras estabelecidas
+ */
 for ($i = 0; $i < $final; $i++) {
 
     //Verificar se tem mais que 1 numero destino
