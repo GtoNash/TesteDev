@@ -36,6 +36,14 @@ for ($i = 0; $i < $final; $i++) {
 }
 exit;
 
+Ou
+
+$url = "https://front-test-pg.herokuapp.com/blacklist/21914683666";
+$array = get_headers($url);
+$retorno = explode(' ', $array[0])[1];
+echo $retorno;
+exit;
+
 </pre>
 
 
