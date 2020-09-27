@@ -5,7 +5,7 @@
 <ul>
 <li>Subir servidor xampp ou Wamp</li>
 <li>Clonar arquivos para dentro da pasta htdocs (xampp), www (Wamp)</li>
-<li>git clone https://github.com/GtoNash/TesteDev.git</li>
+<li><pre>git clone https://github.com/GtoNash/TesteDev.git</pre></li>
 <li>Abrir o navegador</li>
 <li>Digitar http://localhost/TesteDev/index.php</li>
 <li>Será mostrado IDMENSAGEM;IDBROKER das mensagens aptas para envio</li>
