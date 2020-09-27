@@ -2,17 +2,22 @@
 
 <h3>Instruções de como Testar/Executar</h3>
 
-Subir servidor xampp ou Wamp;<br>
-Clonar arquivos para dentro da pasta htdocs (xampp), www (Wamp) https://github.com/GtoNash/TesteDev.git;<br>
-Abrir o navegador;<br>
-Digitar http://localhost/TesteDev/index.php<br>
-Será mostrado IDMENSAGEM;IDBROKER das mensagens aptas para envio
+<ul>
+<li>Subir servidor xampp ou Wamp</li>
+<li>Clonar arquivos para dentro da pasta htdocs (xampp), www (Wamp)</li>
+<li>git clone https://github.com/GtoNash/TesteDev.git</li>
+<li>Abrir o navegador</li>
+<li>Digitar http://localhost/TesteDev/index.php</li>
+<li>Será mostrado IDMENSAGEM;IDBROKER das mensagens aptas para envio</li>
+</ul> 
 
 <h3>Descrição do que utilizou para desenvolver</h3>
-Utilizado PHP 7.4.8;<br>
-Servidor xampp com apache;<br>
-Sistema Operacional Windows 10;<br>
-IDE PhpStorm 2020.2.1
+<ul>
+<li> Utilizado PHP 7.4.8</li>
+<li> Servidor xampp com apache</li>
+<li> Sistema Operacional Windows 10</li>
+<li>IDE PhpStorm 2020.2.1</li>
+</ul>
 
 # Observação
 
